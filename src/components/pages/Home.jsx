@@ -16,9 +16,9 @@ export default function Home(){
                 <img src={foto} alt='perfil' />
                 <h2>Yohran</h2>
                 <ul>
-                    <li><Link to='/https://yohran1.github.io/portfolio/sobre'>Sobre Mim</Link></li>
+                    <li><Link to='/portfolio/sobre'>Sobre Mim</Link></li>
                     <li><a href={PDF} target='blank'>Currículo</a></li>
-                    <li><Link target='blank' to='/https://yohran1.github.io/portfolio/'>Projeto </Link>
+                    <li><Link target='blank' to='/portfolio'>Projeto </Link>
                     <div className={style.img}>
                         <img src={loading} />
                     </div>
