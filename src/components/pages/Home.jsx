@@ -18,7 +18,7 @@ export default function Home(){
                 <ul>
                     <li><Link to='/portfolio/sobre'>Sobre Mim</Link></li>
                     <li><a href={PDF} target='blank'>Currículo</a></li>
-                    <li><Link target='blank' to='/portfolio'>Projeto </Link>
+                    <li><a target='blank' href='/SrMackfly/'>Projeto </a>
                     <div className={style.img}>
                         <img src={loading} />
                     </div>
