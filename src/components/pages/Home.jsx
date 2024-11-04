@@ -1,6 +1,6 @@
 import style from '../styles/Home.module.css'
 import foto from '../../img/profile.png'
-import PDF from '../../yohran.pdf'
+import PDF from '../../Yohran.pdf'
 import loading from '../../img/loading.svg'
 
 import { Link } from 'react-router-dom'
